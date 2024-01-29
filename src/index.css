@@ -33,8 +33,9 @@ a {
 }
 
 .weather-app-icon {
-  font-size: 60px;
-  margin-top: 20px;
+  width: 88px;
+  height: 88px;
+  margin-top: 15px;
   padding: 5px;
 }
 
