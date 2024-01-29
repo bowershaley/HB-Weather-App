@@ -91,6 +91,10 @@ main {
 .weather-forecast {
   margin-top: 20px;
   color: rgba(39, 33, 66, 0.8);
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  text-align: center;
 }
 
 .weather-forcast-date {
@@ -98,13 +102,6 @@ main {
 }
 .weather-forecast-temp {
   font-size: 13px;
-}
-
-.weather-forcast-temp-max,
-.weather-forcast-temp-min,
-.weather-forecast-date,
-.weather-forecast-icon {
-  text-align: center;
 }
 
 footer {

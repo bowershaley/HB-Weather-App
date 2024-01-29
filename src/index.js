@@ -56,3 +56,4 @@ let searchFormElemnt = document.querySelector("#search-form");
 searchFormElemnt.addEventListener("submit", handleSearchSubmit);
 
 searchCity("Miami");
+displayForecast();
