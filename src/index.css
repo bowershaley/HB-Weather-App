@@ -104,6 +104,10 @@ main {
   font-size: 13px;
 }
 
+.weather-forcast-icon {
+  width: 50px;
+}
+
 footer {
   border-bottom: 1px solid #f1f9ff;
   padding: 30px 0 0 0;
